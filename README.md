@@ -32,8 +32,10 @@ My goal is to transition from a student to a data professional by documenting my
 
 ---
 
-### 📁 Projects
-*Coming Soon!* I am currently working on my first **Student Expense Analyzer** using Python to practice data visualization. Stay tuned!
+### 📁 Project
+
+- **[📊 Student Expense Analyzer](https://github.com/Ayushi132-tech/Student-Expense-Analyzer)** A Python-based data visualization tool that analyzes monthly spending patterns using Matplotlib.  
+  *Features: Automated pie chart generation, expense categorization, and data labeling.*
 
 ---
 
