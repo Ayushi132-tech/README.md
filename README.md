@@ -1,6 +1,6 @@
 # 📊 Hi, I'm Ayushi Singh! 👩‍💻
 
-I am a driven **BCA student at PSIT**, currently in my 2nd semester. I am deeply passionate about the world of **Data Science** also exploring full stack devrlopment and I am working toward a career where I can use data to tell stories and solve complex real-world problems.
+I am a driven **BCA student at PSIT**, currently in my 2nd semester. I am deeply passionate about the world of **Data Science** also exploring full stack development and I am working toward a career where I can use data to tell stories and solve complex real-world problems.
 
 ---
 
